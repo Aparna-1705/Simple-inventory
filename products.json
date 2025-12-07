@@ -1,0 +1,62 @@
+[
+  {
+    "productId": 1,
+    "productName": "Veg Rolls",
+    "description": "Good for vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 2,
+    "productName": "Chicken Manchuria",
+    "description": "Preferred by Non Vegetarians",
+    "Stock": true
+  },
+  {
+    "productId": 3,
+    "productName": "Noodles",
+    "description": "Comes under Snacks",
+    "Stock": false
+  },
+  {
+    "productId": 4,
+    "productName": "Burger",
+    "description": "Fast food item",
+    "Stock": true
+  },
+  {
+    "productId": 5,
+    "productName": "French Fries",
+    "description": "Potato based snack",
+    "Stock": true
+  },
+  {
+    "productId": 6,
+    "productName": "Paneer Tikka",
+    "description": "Indian starter",
+    "Stock": true
+  },
+  {
+    "productId": 7,
+    "productName": "Fried Rice",
+    "description": "Chinese cuisine",
+    "Stock": false
+  },
+  {
+    "productId": 8,
+    "productName": "Spring Rolls",
+    "description": "Chinese snack",
+    "Stock": true
+  },
+  {
+    "productId": 9,
+    "productName": "Pasta",
+    "description": "Italian dish",
+    "Stock": true
+  },
+  {
+    "productId": 10,
+    "productName": "Momos",
+    "description": "Steamed snack",
+    "Stock": false
+  }
+]
